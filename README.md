@@ -10,10 +10,10 @@ Integrantes do Projeto
 
 :memo: Os tópicos abaixo definem os recursos Backend que foram utilizados nesse Projeto:
 
-* Spring Boot
-* Java
-* MySQL
-* VS Code (IDE) <i class="fa-duotone fa-laptop-code"></i>
+* Spring Boot <img align="center" alt="java" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
+* Java <img align="center" alt="java" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+* MySQL <img align="center" alt="java" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+* VS Code (IDE) <img align="center" alt="java" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 
 ### Para saber mais sobre os recursos que foram utilizados nesse projeto, leiam a documentação oficial:
 
